@@ -142,24 +142,14 @@ Both emails are **professionally styled** for real-world use.
 
 ---
 
-## 👨‍💻 Author
+## 📷 Live Output
 
-Built with ❤️ and discipline by **Shyam Prasath**
-Focused on clean architecture, real-world features, and production-ready code.
-
----
-
-## 📄 License
-
-This project is for educational and demonstration purposes.
-
-```
+![WhatsApp Image 2026-02-16 at 8 43 51 PM](https://github.com/user-attachments/assets/a5760254-cfd2-4b3a-b076-33604d192791)
 
 ---
 
-If you want, next I can:
-- ✨ tailor this README for **IEEE / academic submission**
-- 🏢 rewrite it like a **startup pitch repo**
-- 📄 convert it into **project documentation PDF**
+![WhatsApp Image 2026-02-16 at 8 43 51 PM (1)](https://github.com/user-attachments/assets/6373cf44-f92b-4592-a8c8-d20e7ce1a121)
 
-Just say the word 👌
+---
+
+![WhatsApp Image 2026-02-16 at 8 43 51 PM (2)](https://github.com/user-attachments/assets/f8e3fcef-d7a2-4647-b39c-8b99b497e539)
